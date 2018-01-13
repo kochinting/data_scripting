@@ -1,23 +1,23 @@
 Order_id Order_date User_id Avg_Item_price Start_page_url Error_msg
-54374 2015-05-01 123 15.0 http://www.insacart.com/favorites 
-54356 2015-05-01 124 43.1 http://www.insacart.com/favorites 
-54234 2015-05-01 123 37.1 http://www.insacart.com/favorites 
-54375 2015-05-01 134 26.9 http://www.insacart.com/ 
-54376 2015-05-01 126 18.8 http://www.insacart.com/ 
-12094 2015-05-01 123 14.4 http://www.insacart.com 
-54324 2015-05-01 129 16.9 http://www.insacart.com/ 
-54374 2015-05-01 125 36.4 http://www.insacart.com/ 
-54564 2015-05-01 126 16.5 http://www.insacart.com/ 
-54884 2015-05-03 127 10.3 http://www.insacart.com/favorites 
-44374 2015-05-01 128 32.3 http://www.insacart.com/favorites 
+54374 2015-05-01 123 15.0 http://www.xxx.com/favorites 
+54356 2015-05-01 124 43.1 http://www.xxx.com/favorites 
+54234 2015-05-01 123 37.1 http://www.xxx.com/favorites 
+54375 2015-05-01 134 26.9 http://www.xxx.com/ 
+54376 2015-05-01 126 18.8 http://www.xxx.com/ 
+12094 2015-05-01 123 14.4 http://www.xxx.com 
+54324 2015-05-01 129 16.9 http://www.xxx.com/ 
+54374 2015-05-01 125 36.4 http://www.xxx.com/ 
+54564 2015-05-01 126 16.5 http://www.xxx.com/ 
+54884 2015-05-03 127 10.3 http://www.xxx.com/favorites 
+44374 2015-05-01 128 32.3 http://www.xxx.com/favorites 
 34374 2015-05-01 129 0.0  "Invalid URL"
 54004 2015-05-03 129 36.3  "Invalid URL"
 54974 2015-05-03 120 15.4  "Invalid URL"
 54374 2015-05-01 345 8.0 http://www.insacart.com/cart 
 52374 2015-04-01 5678 20.8  "Invalid URL"
-4374 2015-05-01 123 10.9 http://www.insacart.com/favorites 
+4374 2015-05-01 123 10.9 http://www.xxx.com/favorites 
   423 13.9 http://www.insacart.com/favorites " Invalid Order Id, Invalid Order Date"
-54374 2015-05-01 424 10.9 http://www.insacart.com/search 
-549374 2015-05-01 325 22.5 http://www.insacart.com/favorites 
-54334 2015-05-01 428 26.7 http://www.insacart.com/search 
-50374 2015-05-01 429 500.0 http://www.insacart.com/ 
+54374 2015-05-01 424 10.9 http://www.xxx.com/search 
+549374 2015-05-01 325 22.5 http://www.xxx.com/favorites 
+54334 2015-05-01 428 26.7 http://www.xxx.com/search 
+50374 2015-05-01 429 500.0 http://www.xxx.com/ 
