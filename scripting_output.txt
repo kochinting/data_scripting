@@ -13,10 +13,10 @@ Order_id Order_date User_id Avg_Item_price Start_page_url Error_msg
 34374 2015-05-01 129 0.0  "Invalid URL"
 54004 2015-05-03 129 36.3  "Invalid URL"
 54974 2015-05-03 120 15.4  "Invalid URL"
-54374 2015-05-01 345 8.0 http://www.insacart.com/cart 
+54374 2015-05-01 345 8.0 http://www.xxx.com/cart 
 52374 2015-04-01 5678 20.8  "Invalid URL"
 4374 2015-05-01 123 10.9 http://www.xxx.com/favorites 
-  423 13.9 http://www.insacart.com/favorites " Invalid Order Id, Invalid Order Date"
+  423 13.9 http://www.xxx.com/favorites " Invalid Order Id, Invalid Order Date"
 54374 2015-05-01 424 10.9 http://www.xxx.com/search 
 549374 2015-05-01 325 22.5 http://www.xxx.com/favorites 
 54334 2015-05-01 428 26.7 http://www.xxx.com/search 
